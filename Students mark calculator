@@ -24,3 +24,8 @@ elif percentage >= 70:
     print("Grade: B")
 else:
     print("Grade: C")
+if percentage >= 50:
+    print("Result:PASS")
+else:
+    print("Result:FAIL")
+print("Thank you for using Student Marks Calculator!")
